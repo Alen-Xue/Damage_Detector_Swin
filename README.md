@@ -1,6 +1,7 @@
 # Damage_Detector_Swin
 
 Project Description
+-------------------
 This project is based on Swin Transformer (Swin-S) model for house damage detection. By training the model, we can predict the extent of damage in the house pictures and use Grad-CAM to visualize the region of attention of the model.
 
 Project Settings and Dependencies
