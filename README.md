@@ -27,6 +27,8 @@ A key innovation of the Swin Transformer is its window-based self-attention mech
 Hierarchical Representation
 --------------------------
 The Swin Transformer adopts a multi-layered structure, with each layer corresponding to a different resolution. This design allows it to capture features at multiple scales.
+![image](https://github.com/Alen-Xue/Damage_Detector_Swin/assets/126217366/9c003db4-5505-4f74-9021-abdfb5abff18)
+
 
 Model Parameters and Settings
 ----------------------------
