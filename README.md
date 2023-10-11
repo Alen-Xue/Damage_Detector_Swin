@@ -44,3 +44,7 @@ k-value: 5 (i.e., 5-fold cross-validation)
 Optimizer: Adam
 Learning Rate Strategy: CosineAnnealingLR
 Loss Function: CrossEntropyLoss
+
+![Test1](https://github.com/Alen-Xue/Damage_Detector_Swin/assets/126217366/0fd7f7e3-f35c-40ff-8b3a-a6599706e859)
+![Test4](https://github.com/Alen-Xue/Damage_Detector_Swin/assets/126217366/a419aa73-5a2e-422a-b257-7c2387bee957)
+![Test6](https://github.com/Alen-Xue/Damage_Detector_Swin/assets/126217366/d60ecdc4-04b2-4676-8fc2-ae09031b9cb9)
