@@ -17,6 +17,8 @@ pip install -r requirements.txt
 Model Overview: Swin Transformer
 -------------------------------
 The Swin Transformer is a novel self-attention neural network designed for computer vision tasks. Distinct from traditional Transformer architectures, the Swin Transformer employs fixed-size windows to perform self-attention computations, significantly reducing computational complexity.
+![image](https://github.com/Alen-Xue/Damage_Detector_Swin/assets/126217366/2145de3e-9b6f-4396-a464-2ab27c1e9d5b)
+
 
 Window-based Self-Attention
 --------------------------
